@@ -17,16 +17,3 @@ A growing collection of daily coding challenges for practicing problem solving, 
 
 </details>
 
-<details>
-<summary><strong>Days 101-200</strong></summary>
-
-No problems added yet.
-
-</details>
-
-<details>
-<summary><strong>Days 201-300</strong></summary>
-
-No problems added yet.
-
-</details>
