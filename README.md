@@ -13,7 +13,11 @@ A growing collection of daily coding challenges for practicing problem solving, 
 | 2 | [Single Digit](day1-100/2.md) |
 | 3 | [Fraction](day1-100/3.md) |
 | 4 | [First Non-Repeating Digit](day1-100/4.md) |
-| 5 | [Day 5](day1-100/5.md) |
+| 5 | [Minimum Changes to Anagram](day1-100/5.md) |
+| 6 | [Merge Overlapping Intervals](day1-100/6.md) |
+| 7 | [Product of Array Except Self](day1-100/7.md) |
+| 8 | [Valid Parentheses With Wildcards](day1-100/8.md) |
+| 9 | [Search in Rotated Sorted Array](day1-100/9.md) |
+| 10 | [Number of Islands](day1-100/10.md) |
 
 </details>
-
