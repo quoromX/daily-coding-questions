@@ -15,5 +15,6 @@ A growing collection of daily coding challenges for practicing problem solving, 
 | 4 | [First Non-Repeating Digit](day1-100/4.md) |
 | 5 | [Minimum Changes to Anagram](day1-100/5.md) |
 | 6 | [Minimum Rooms Required](day1-100/6.md) |
+| 7 | [Variadic Average Score](day1-100/7.md) |
 
 </details>
