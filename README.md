@@ -21,5 +21,6 @@ Use this index to jump straight to any available day's problem statement.
 | 8 | [Login Attempt Tracker](day1-100/8.md) |
 | 9 | [Nested Array Sum](day1-100/9.md) |
 | 10 | [Range Report](day1-100/10.md) |
+| 11 | [Pointer Balance Update](day1-100/11.md) |
 
 </details>

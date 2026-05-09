@@ -1,5 +1,5 @@
 9 - Recursion [DONE]
-10 - Range over Built-in Types
+10 - Range over Built-in Types [DONE]
 11 - Pointers
 12 - Strings and Runes
 13 - Structs
