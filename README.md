@@ -1,6 +1,8 @@
 # Daily Coding Questions
 
-A growing collection of daily coding challenges for practicing problem solving, algorithms, and clean implementation. Use this index to jump straight to any available day's problem statement.
+A growing collection of daily coding challenges for practicing problem solving, algorithms, and clean implementation. These problems are centered around Golang, but you can solve with any other programming
+
+Use this index to jump straight to any available day's problem statement.
 
 ## Problems Index
 
@@ -16,5 +18,7 @@ A growing collection of daily coding challenges for practicing problem solving, 
 | 5 | [Minimum Changes to Anagram](day1-100/5.md) |
 | 6 | [Minimum Rooms Required](day1-100/6.md) |
 | 7 | [Variadic Average Score](day1-100/7.md) |
+| 8 | [Login Attempt Tracker](day1-100/8.md) |
+| 9 | [Nested Array Sum](day1-100/9.md) |
 
 </details>
