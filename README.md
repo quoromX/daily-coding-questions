@@ -24,5 +24,6 @@ Use this index to jump straight to any available day's problem statement.
 | 11 | [Pointer Balance Update](day1-100/11.md) |
 | 12 | [Closest Point](day1-100/12.md) |
 | 13 | [Memory Calculator](day1-100/13.md) |
+| 14 | [Largest Shape Area](day1-100/14.md) |
 
 </details>

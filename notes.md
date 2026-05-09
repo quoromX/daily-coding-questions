@@ -3,7 +3,7 @@
 11 - Pointers [DONE]
 12 - Structs [DONE]
 13 - Methods [DONE]
-14 - Interfaces
+14 - Interfaces [DONE]
 15 - Enums
 16 - Struct Embedding
 17 - Generics
