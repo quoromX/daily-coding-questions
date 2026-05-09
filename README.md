@@ -20,5 +20,6 @@ Use this index to jump straight to any available day's problem statement.
 | 7 | [Variadic Average Score](day1-100/7.md) |
 | 8 | [Login Attempt Tracker](day1-100/8.md) |
 | 9 | [Nested Array Sum](day1-100/9.md) |
+| 10 | [Range Report](day1-100/10.md) |
 
 </details>
