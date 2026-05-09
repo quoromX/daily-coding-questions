@@ -28,5 +28,6 @@ Use this index to jump straight to any available day's problem statement.
 | 15 | [Ordered Priority Tasks](day1-100/15.md) |
 | 16 | [Top Seller](day1-100/16.md) |
 | 17 | [First Duplicate](day1-100/17.md) |
+| 18 | [Sum Iterator](day1-100/18.md) |
 
 </details>

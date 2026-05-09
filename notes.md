@@ -7,7 +7,7 @@
 15 - Enums [DONE]
 16 - Struct Embedding [DONE]
 17 - Generics [DONE]
-18 - Range over Iterators
+18 - Range over Iterators [DONE]
 19 - Errors
 20 - Custom Errors
 21 - Goroutines
