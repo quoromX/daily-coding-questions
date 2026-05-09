@@ -2,7 +2,7 @@
 10 - Range over Built-in Types [DONE]
 11 - Pointers [DONE]
 12 - Structs [DONE]
-13 - Methods
+13 - Methods [DONE]
 14 - Interfaces
 15 - Enums
 16 - Struct Embedding
