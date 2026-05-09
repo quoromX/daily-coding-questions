@@ -4,7 +4,7 @@
 12 - Structs [DONE]
 13 - Methods [DONE]
 14 - Interfaces [DONE]
-15 - Enums
+15 - Enums [DONE]
 16 - Struct Embedding
 17 - Generics
 18 - Range over Iterators
