@@ -5,8 +5,8 @@
 13 - Methods [DONE]
 14 - Interfaces [DONE]
 15 - Enums [DONE]
-16 - Struct Embedding
-17 - Generics
+16 - Struct Embedding [DONE]
+17 - Generics [DONE]
 18 - Range over Iterators
 19 - Errors
 20 - Custom Errors

@@ -26,5 +26,7 @@ Use this index to jump straight to any available day's problem statement.
 | 13 | [Memory Calculator](day1-100/13.md) |
 | 14 | [Largest Shape Area](day1-100/14.md) |
 | 15 | [Ordered Priority Tasks](day1-100/15.md) |
+| 16 | [Top Seller](day1-100/16.md) |
+| 17 | [First Duplicate](day1-100/17.md) |
 
 </details>
