@@ -30,5 +30,6 @@ Use this index to jump straight to any available day's problem statement.
 | 17 | [First Duplicate](day1-100/17.md) |
 | 18 | [Sum Iterator](day1-100/18.md) |
 | 19 | [Move Zeros](day1-100/19.md) |
+| 20 | [Valid Brackets](day1-100/20.md) |
 
 </details>
