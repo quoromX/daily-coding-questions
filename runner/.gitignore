@@ -1,0 +1,39 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+vendor/
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+
+# Go
+bin/
+*.test
+coverage.out
+coverage.html
+
+# Build outputs
+dist/
+build/
+tmp/
+*.log
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Docker and local data
+docker-compose.override.yml
+postgres-data/
+redis-data/
+judge0-data/
+
