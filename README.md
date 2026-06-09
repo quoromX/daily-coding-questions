@@ -32,5 +32,11 @@ Use this index to jump straight to any available day's problem statement.
 | 19 | [Move Zeros](day1-100/19.md) |
 | 20 | [Valid Brackets](day1-100/20.md) |
 | 21 | [Group Anagrams](day1-100/21.md) |
+| 22 | [Full Text Justification](day1-100/22.md) |
+| 23 | [Merge Highlight Ranges](day1-100/23.md) |
+| 24 | [Find All Pattern Occurrences (KMP)](day1-100/24.md) |
+| 25 | [Spiral Traverse a Character Grid](day1-100/25.md) |
+| 26 | [Shortest Path in a Pixel Grid](day1-100/26.md) |
+| 27 | [Command Line Tokenizer](day1-100/27.md) |
 
 </details>
